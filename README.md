@@ -13,7 +13,7 @@ Capture, edit, and collaborate on your notes on any device, anywhere.
 
 Technology I used for making this app?
 
-Kotlin ,Android,MVVM,Room,Navigation Components.
+Java,Kotlin,Android,MVVM,Room,Navigation Components.
 
 ![Screenshot_20240705_033627](https://github.com/shikha046/Notes-App-Android/assets/101914410/902834f4-8d8f-485f-8478-92100d2cf30a) ![Screenshot_20240705_040158](https://github.com/shikha046/Notes-App-Android/assets/101914410/d0937b0d-232d-463c-8d0f-8f82ab0ad937) ![Screenshot_20240705_040056](https://github.com/shikha046/Notes-App-Android/assets/101914410/03225394-a9ed-4ade-8741-1bde6a291849)
 ![Screenshot_20240705_035833](https://github.com/shikha046/Notes-App-Android/assets/101914410/14047dbc-d446-4636-b6d9-51035926b02a)
